@@ -1,0 +1,3 @@
+[submodule "horizon-login"]
+	path = horizon-login
+	url = git@github.com:BdEINSALyon/horizon-login.git
